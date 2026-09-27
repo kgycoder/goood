@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand -->
+    <color name="brand_primary">#6C5ECF</color>
+    <color name="brand_primary_dark">#5647B8</color>
+    <color name="brand_accent">#8B7DE8</color>
+
+    <!-- Background -->
+    <color name="bg_primary">#0F0F11</color>
+    <color name="bg_secondary">#18181C</color>
+    <color name="bg_tertiary">#222228</color>
+    <color name="bg_surface">#1E1E24</color>
+    <color name="bg_card">#252530</color>
+
+    <!-- Text -->
+    <color name="text_primary">#EDEDF0</color>
+    <color name="text_secondary">#9090A0</color>
+    <color name="text_tertiary">#606070</color>
+    <color name="text_placeholder">#505060</color>
+
+    <!-- Border -->
+    <color name="border_light">#2A2A36</color>
+    <color name="border_medium">#333340</color>
+
+    <!-- Status -->
+    <color name="status_online">#4CAF50</color>
+    <color name="status_offline">#666680</color>
+    <color name="status_error">#EF5350</color>
+
+    <!-- User message -->
+    <color name="user_bubble">#2D2A4A</color>
+    <color name="user_bubble_border">#3D3A60</color>
+
+    <!-- Code block -->
+    <color name="code_bg">#16161A</color>
+    <color name="code_border">#2C2C38</color>
+    <color name="code_label">#8080A0</color>
+
+    <!-- Overlay -->
+    <color name="overlay_dim">#CC000000</color>
+
+    <!-- White/transparent -->
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+</resources>

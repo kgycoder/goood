@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LM Arena</string>
+    <string name="login_title">로그인</string>
+    <string name="login_subtitle">LM Arena 계정으로 로그인하세요</string>
+    <string name="login_button">Google로 로그인</string>
+    <string name="logging_in">로그인 중...</string>
+    <string name="send_message">메시지 전송</string>
+    <string name="new_chat">새 채팅</string>
+    <string name="placeholder_input">메시지를 입력하세요...</string>
+    <string name="connecting">연결 중...</string>
+    <string name="connected">연결됨</string>
+    <string name="logged_out">로그아웃 상태</string>
+    <string name="logout">로그아웃</string>
+    <string name="error_network">네트워크 오류가 발생했습니다.</string>
+    <string name="loading">로드 중...</string>
+    <string name="chat_mode_direct">Direct</string>
+    <string name="chat_mode_agent">Agent</string>
+    <string name="empty_chat_title">무엇을 도와드릴까요?</string>
+    <string name="empty_chat_sub">메시지를 입력하면 LM Arena로 바로 전달됩니다.</string>
+    <string name="open_sidebar">사이드바 열기</string>
+    <string name="close_sidebar">사이드바 닫기</string>
+</resources>
